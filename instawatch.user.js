@@ -1,7 +1,8 @@
 // ==UserScript==
-// @name         InstaWatch for InstaGC
-// @namespace    http://tampermonkey.net/
+// @name         InstaGC Watch Helper
+// @namespace    https://github.com/xxinping/InstaWatch
 // @include      https://www.instagc.com/watch/*
+// @updateURL    https://raw.githubusercontent.com/xxinping/InstaWatch/master/instawatch.user.js#bypass=true
 // @version      0.1.0
 // @description  Keep Watch working
 // @author       0r4ng3l0rd
