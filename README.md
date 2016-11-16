@@ -1,5 +1,6 @@
-# InstaWatch
-InstaWatch for InstaGC
+
+# XunpungWatch
+free tool by xi
 
 ## Install
 1. install tampermonkey
