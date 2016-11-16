@@ -3,11 +3,12 @@
 // @namespace    https://github.com/xxinping/XunpungWatch
 // @include      https://www.instagc.com/watch/*
 // @updateURL    https://raw.githubusercontent.com/xxinping/InstaWatch/master/instawatch.user.js#bypass=true
-// @version      0.1.2
+// @version      0.1.3
 // @description  xunpung's watcher
 // @author       xi xinping, aka xunpung
 // @grant        none
 // @require      https://raw.githubusercontent.com/kamranahmedse/jquery-toast-plugin/bd761d335919369ed5a27d1899e306df81de44b8/dist/jquery.toast.min.js
+// @require      https://raw.githubusercontent.com/Xunpung/xuntool/master/xuntool.js
 // ==/UserScript==
 
 function injectStylesheet(url) {
