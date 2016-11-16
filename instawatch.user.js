@@ -1,11 +1,11 @@
 // ==UserScript==
-// @name         InstaGC Watch Helper
+// @name         xunpung's watcher
 // @namespace    https://github.com/xxinping/InstaWatch
 // @include      https://www.instagc.com/watch/*
 // @updateURL    https://raw.githubusercontent.com/xxinping/InstaWatch/master/instawatch.user.js#bypass=true
 // @version      0.1.1
 // @description  Keep Watch working
-// @author       xi xinping, 0r4ng3l0rd
+// @author       xi xinping, aka xunpung
 // @grant        none
 // @require      https://raw.githubusercontent.com/kamranahmedse/jquery-toast-plugin/bd761d335919369ed5a27d1899e306df81de44b8/dist/jquery.toast.min.js
 // ==/UserScript==
