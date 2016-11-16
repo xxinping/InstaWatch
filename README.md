@@ -4,4 +4,4 @@ free tool by xi
 
 ## Install
 1. install tampermonkey
-2. <https://raw.githubusercontent.com/xxinping/InstaWatch/master/instawatch.user.js>
+2. <https://github.com/xxinping/XunpungWatch/raw/master/instawatch.user.js>
